@@ -1,8 +1,8 @@
-### Hello there 🙋🏻‍♀️
+### Olá 🙋🏻‍♀️
 
-🌱 I’m currently learning JavaScript, Node.js and a bit of C# </br>
-✨ I’m looking for experiences i can learn and introduce myself to the community, but also enjoy </br>
-👀 I’m interested in psychology, programming and fascinated by incredible books </br>
+🌱 Atualmente estou apredendo JavaScript, Node.js e um pouquinho de C# </br>
+✨ Procuro por oportunidade para aprender, começar a fazer parte da comunidade, mas também aproveitar</br>
+👀 Tenho interesse em programação, psicologia e sou fascinada por livros </br>
 
 
 
