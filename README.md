@@ -1,7 +1,7 @@
 ### Olá 🙋🏻‍♀️
 
 🌱 Atualmente estou apredendo JavaScript, Node.js e um pouquinho de C# </br>
-✨ Procuro por oportunidade para aprender, começar a fazer parte da comunidade, mas também aproveitar</br>
+✨ Procuro por oportunidades para aprender, começar a fazer parte da comunidade, mas também aproveitar</br>
 👀 Tenho interesse em programação, psicologia e sou fascinada por livros </br>
 
 
