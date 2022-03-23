@@ -1,6 +1,6 @@
 ### Olá 🙋🏻‍♀️
 
-🌱 Atualmente estou apredendo JavaScript, Node.js e um pouquinho de C# </br>
+🌱 Atualmente estou apredendo JavaScript, Node.js e um pouquinho de outras linguagens que me chamam atenção </br>
 ✨ Procuro por oportunidades para aprender, começar a fazer parte da comunidade, mas também aproveitar</br>
 👀 Tenho interesse em programação, psicologia e sou fascinada por livros </br>
 
@@ -16,8 +16,6 @@
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
   <img align="center" alt="Maria-HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
   <img align="center" alt="Maria-CSS" height="30" width="40" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/css3/css3-original.svg">
-  <img align="center" alt="Maria-Csharp" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/csharp/csharp-original.svg">
-
 </div>
   
   ##
