@@ -1,16 +1,9 @@
 ### Hello 🙋🏻‍♀️
 
-🌱 I'm currently learning JavaScript, Node.js and a bit of other languages that draw my attention</br>
+🌱 I'm currently learning Python, JavaScript, Node.js and a bit of other languages that draw my attention</br>
 ✨ I'm looking for opportunities to learn and start being part of the community, but also to enjoy</br>
 👀 I'm interesting in programming, psychology and fascinated by incredible books</br>
 
-
-
-<div align="center">
-  <a href="https://github.com/rafaballerini">
-  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=mariaafrv&show_icons=true&theme=dracula&include_all_commits=true&count_private=true"/>
-  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=mariaafrv&layout=compact&langs_count=7&theme=dracula"/>
-</div>
 
   <div style="display: inline_block"><br>
   <img align="center" alt="Maria-Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
