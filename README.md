@@ -1,6 +1,6 @@
 ### Hello 🙋🏻‍♀️
 
-🌱 I'm currently learning Python, JavaScript, Node.js and a bit of other languages that draw my attention</br>
+🌱 I'm currently learning Swift, Python, Java and a bit of other languages that draw my attention</br>
 ✨ I'm looking for opportunities to learn and start being part of the community, but also to enjoy</br>
 👀 I'm interesting in programming, psychology and fascinated by incredible books</br>
 
