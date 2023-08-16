@@ -2,7 +2,7 @@
 
 My name is Maria Aida, I live in Rio Grande do Sul, Brazil and I currently work with iOS Mobile Development.
 
-I confess that neither my first or second contact with programming was with mobile development, however, when I joined a mobile vacancy, I fell in love with creating solutions that fit into people's hands and pockets, and now I'm a Swift enthusiast.
+I confess that neither my first or second contact with programming was with mobile development, however, when I joined a job opportunity to work with iOS development, I fell in love with creating solutions that fit into people's hands and pockets, and now I'm a Swift enthusiast.
 
 Oh, here's a curiosite about me: when I'm not coding in my free time, I'm fascinated by visiting amazing book stories, I'm certainly a reading freak.
 
