@@ -1,6 +1,6 @@
 ## Hello 🙋🏻‍♀️
 
-My name is Maria Aida, I live in Rio Grande do Sul, Brazil and and currently I work with iOS Mobile Development.
+My name is Maria Aida, I live in Rio Grande do Sul, Brazil and I currently work with iOS Mobile Development.
 
 I confess that neither my first or second contact with programming was with mobile development, however, when I joined a mobile vacancy, I fell in love with creating solutions that fit into people's hands and pockets, and now I'm a Swift enthusiast.
 
