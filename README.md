@@ -1,5 +1,4 @@
 ## Hello 🙋🏻‍♀️
--------------------------
 
 My name is Maria Aida, I live in Rio Grande do Sul, Brazil and and currently I work with iOS Mobile Development.
 
